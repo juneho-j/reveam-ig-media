@@ -1,0 +1,5 @@
+caption*.txt
+*.md
+!posts/README.md
+Thumbs.db
+desktop.ini
